@@ -49,7 +49,7 @@
 ## 📈 My Stats:
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0n-echo&layout=compact&hide=html" alt="b0n-echo" />
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=b0n-echo&show_icons=true" alt="b0n-echo" />
 
 ## ☎️ Contact Me:
