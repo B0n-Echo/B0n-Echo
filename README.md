@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhilesh Pandey</h1>
-<img src="0.jfif" width=100%  align="left"/>
+<img src="https://i.ibb.co/qk7DxfM/image.jpg" width=100%  align="left"/>
 <p>&nbsp;</p>
 <h3 align="center">Experienced senior/lead developer with a strong focus on quality code and robust system architecture. I work primarily with web technologies.</h3>
 
