@@ -63,6 +63,6 @@
 <a href="https://codepen.io/b0n-echo" target="blank">
 <img align="left" alt="Nikhilesh's Codepen" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/codepen.svg" />
 </a>
-<a href="https://www.quora.com/profile/Vedant-Jajoo-1">
+<a href="https://www.quora.com/profile/Nikhilesh-Pandey-3">
   <img align="left" alt="Nikhilesh's Quora" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a><br/><br/>
